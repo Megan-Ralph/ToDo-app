@@ -8,8 +8,8 @@ development:
   adapter: mysql2
   encoding: utf8
   reconnect: false
-  database: db_name_here
+  database: ruby
   pool: 5
-  username: root
-  password:
+  username: adminNzaPXdc
+  password: 9H2MI6rnUa4j
   host: localhost
